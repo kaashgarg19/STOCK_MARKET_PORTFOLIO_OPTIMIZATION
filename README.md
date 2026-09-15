@@ -1,4 +1,28 @@
-Stock market portfolio optimization is the process of selecting the best combination of stocks to maximize returns while minimizing the risk, based on historical performance data and financial metrics.
-Stock market portfolio optimization involves analyzing price trends, calculating expected returns and volatilities, and determining the correlations between different stocks to achieve diversification. Using techniques such as Modern Portfolio Theory (MPT), We can construct an efficient portfolio.
-The expected results from stock market portfolio optimization include identifying the portfolio with the highest Sharpe ratio, which indicates the best risk-adjusted return and provides a clear allocation strategy for the selected stocks to achieve long-term investment goals.
-Now, We can use yfinance API for collecting stock market data.
+# Stock Market Portfolio Optimization
+
+A Python project exploring stock-market data and portfolio optimization.
+
+## About
+
+The project looks at historical stock prices to study returns, risk and diversification. It uses portfolio optimization ideas from Modern Portfolio Theory (MPT).
+
+## What I worked on
+
+- Collecting historical stock data using `yfinance`
+- Calculating returns and volatility
+- Comparing relationships between stocks
+- Exploring portfolio risk and return
+- Finding portfolios with different risk/return profiles
+- Using the Sharpe ratio to compare risk-adjusted returns
+
+## Tools
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- yfinance
+
+## Project goal
+
+To understand how historical market data can be used to build and compare diversified investment portfolios.
