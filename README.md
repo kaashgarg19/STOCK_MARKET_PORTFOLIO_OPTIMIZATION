@@ -1,19 +1,19 @@
 # Stock Market Portfolio Optimization
 
-A Python project exploring stock-market data and portfolio optimization.
+A Python project exploring historical stock data and portfolio optimisation.
 
 ## About
 
-The project looks at historical stock prices to study returns, risk and diversification. It uses portfolio optimization ideas from Modern Portfolio Theory (MPT).
+The project looks at historical stock prices to understand returns, risk and diversification using ideas from Modern Portfolio Theory.
 
 ## What I worked on
 
-- Collecting historical stock data using `yfinance`
+- Collecting historical stock data
 - Calculating returns and volatility
-- Comparing relationships between stocks
-- Exploring portfolio risk and return
-- Finding portfolios with different risk/return profiles
-- Using the Sharpe ratio to compare risk-adjusted returns
+- Exploring relationships between stocks
+- Comparing portfolio risk and return
+- Exploring different portfolio combinations
+- Using the Sharpe ratio as a risk-adjusted measure
 
 ## Tools
 
@@ -23,6 +23,8 @@ The project looks at historical stock prices to study returns, risk and diversif
 - Matplotlib
 - yfinance
 
-## Project goal
+## Notebook
 
-To understand how historical market data can be used to build and compare diversified investment portfolios.
+The main analysis is available in [Portfolio-analysis.ipynb](Portfolio-analysis.ipynb).
+
+This is a project for exploring portfolio analysis using historical market data. It is not financial advice.
