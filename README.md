@@ -1,22 +1,27 @@
-# Stock Market Portfolio Optimization
+# Stock Market Portfolio Analysis
 
-A Python project where I explored historical stock prices, returns, risk and portfolio combinations.
+This Python project is a learning exercise in looking at historical stock prices, returns, risk and simple portfolio combinations.
 
 ## What I worked on
-- Collecting historical market data
-- Calculating returns and volatility
-- Looking at relationships between stocks
-- Comparing portfolio combinations
-- Exploring risk and return
-- Using the Sharpe ratio as one risk-adjusted measure
 
-## Tools
-Python · Pandas · NumPy · Matplotlib · yfinance
+- collecting historical market data
+- calculating returns
+- looking at volatility
+- checking relationships between stocks
+- comparing portfolio combinations
+- exploring the relationship between risk and return
+- using the Sharpe ratio as one risk-adjusted measure
 
 ## Notebook
 
 The main analysis is in [Portfolio-analysis.ipynb](Portfolio-analysis.ipynb).
 
+## Tools
+
+Python · Pandas · NumPy · Matplotlib · yfinance
+
 ## Project note
 
-This was a learning project around portfolio analysis. It uses historical data and simplified modelling assumptions, so it is not financial advice or a recommendation to buy or sell any security.
+This is an educational project based on historical data and simplified assumptions. It is not financial advice and it does not recommend buying or selling any security.
+
+I have kept the notebook as the main record of the work so that the calculations and charts can be inspected directly.
